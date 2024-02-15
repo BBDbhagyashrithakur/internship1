@@ -1,8 +1,8 @@
 # internship1_Database Design
 
 
-![flow](https://github.com/BBDbhagyashrithakur/internship1/assets/159768548/1b382678-9207-4e05-a104-1b1b11d68d6c)
 
+![flow3](https://github.com/BBDbhagyashrithakur/internship1/assets/159768548/6073dc12-221f-43e7-8d35-d2d9b6647a95)
 
 User Table:
 
